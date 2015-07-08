@@ -10,8 +10,8 @@ P.S. I have built a similar game using [cocos2d-x](http://cocos2d-x.org/) (C++ v
 4. Add platforms that you want to support, for example: `cordova platforms add ios`, `cordova platforms add android`
 5. Install cordova plugins 
 ```
-cordova plugins add com.a42.cordova.googleplaygame
-cordova plugins add com.toluhta.immersify
+cordova plugin add https://github.com/ptgamr/cordova-google-play-game.git --variable APP_ID=you_app_id_here
+cordova plugins add https://github.com/toluhta/Immersify.git
 cordova plugins add org.apache.cordova.device
 cordova plugins add org.apache.cordova.media
 ```
