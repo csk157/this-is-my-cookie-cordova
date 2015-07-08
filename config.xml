@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ces.mycookie" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Cookie</name>
+    <description>
+        A simple Phaser.js game where you control a cookie and must evade enemies to survive. Enemies can destroy each other. The longer you stay alive and the more enemies were destroyed the higher your final score will be.
+    </description>
+    <author email="l.ceslovas@gmail.com" href="https://github.com/csk157">
+        Ceslovas Lopan
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="Orientation" value="landscape" />
+</widget>

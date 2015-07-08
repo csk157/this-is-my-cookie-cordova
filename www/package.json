@@ -1,0 +1,15 @@
+{
+  "name": "this-is-my-cookie-cordova",
+  "version": "1.0.0",
+  "description": "A simple game using Phaser.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ceslovas Lopan",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^2.3.0",
+    "underscore": "^1.8.3"
+  }
+}
